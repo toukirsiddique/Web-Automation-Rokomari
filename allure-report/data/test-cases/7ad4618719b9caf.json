@@ -1,0 +1,210 @@
+{
+  "uid" : "7ad4618719b9caf",
+  "name" : "Rokomari Cart Page",
+  "fullName" : "webtests.Logintest.loginTest",
+  "historyId" : "a7050e98b39508531c0a05f6d80666d",
+  "time" : {
+    "start" : 1669456729744,
+    "stop" : 1669456754594,
+    "duration" : 24850
+  },
+  "description" : "Test Description: We have selected an Author, Filtered Books by Sorting and Category, Chose a particular book and added it to the cart, provided necessary details for shipping the book and took screenshots throughout the process.",
+  "descriptionHtml" : "<p>Test Description: We have selected an Author, Filtered Books by Sorting and Category, Chose a particular book and added it to the cart, provided necessary details for shipping the book and took screenshots throughout the process.</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 9,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1669456728250,
+      "stop" : 1669456729668,
+      "duration" : 1418
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Description: We have selected an Author, Filtered Books by Sorting and Category, Chose a particular book and added it to the cart, provided necessary details for shipping the book and took screenshots throughout the process.",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "55ed736764206a9e",
+      "name" : "SignInPage",
+      "source" : "55ed736764206a9e.png",
+      "type" : "image/png",
+      "size" : 133258
+    }, {
+      "uid" : "1caf2f0c21acc642",
+      "name" : "FilteredBookPage",
+      "source" : "1caf2f0c21acc642.png",
+      "type" : "image/png",
+      "size" : 453114
+    }, {
+      "uid" : "43e727237a8f3e88",
+      "name" : "CartPage",
+      "source" : "43e727237a8f3e88.png",
+      "type" : "image/png",
+      "size" : 119440
+    }, {
+      "uid" : "a0b8f2411d25c62e",
+      "name" : "ShippingPage",
+      "source" : "a0b8f2411d25c62e.png",
+      "type" : "image/png",
+      "size" : 101513
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "quitDriver",
+    "time" : {
+      "start" : 1669456754594,
+      "stop" : 1669456754724,
+      "duration" : 130
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "webtests.Logintest"
+  }, {
+    "name" : "testClass",
+    "value" : "webtests.Logintest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "webtests.Logintest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-1S8O95K"
+  }, {
+    "name" : "thread",
+    "value" : "10372@DESKTOP-1S8O95K.TestNG-test=Test-1(19)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c2af62c460a8bbe8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669455521927,
+        "stop" : 1669455543894,
+        "duration" : 21967
+      }
+    }, {
+      "uid" : "dae34ffb7fd5a280",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669455364344,
+        "stop" : 1669455382615,
+        "duration" : 18271
+      }
+    }, {
+      "uid" : "4c5e2286efb13610",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'সমকালীন উপন্যাস')] (tried for 40 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1669454864534,
+        "stop" : 1669454915131,
+        "duration" : 50597
+      }
+    }, {
+      "uid" : "18bba7d7a7a9d0aa",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'সমকালীন উপন্যাস')] (tried for 40 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1669454539822,
+        "stop" : 1669454588337,
+        "duration" : 48515
+      }
+    }, {
+      "uid" : "e0013d4e2f344558",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669451596597,
+        "stop" : 1669451618484,
+        "duration" : 21887
+      }
+    }, {
+      "uid" : "2fdba636704848a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669451238716,
+        "stop" : 1669451265150,
+        "duration" : 26434
+      }
+    }, {
+      "uid" : "efdd9fc3cc9b8250",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669449717326,
+        "stop" : 1669449744782,
+        "duration" : 27456
+      }
+    }, {
+      "uid" : "26251e59bbe99eb3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669449232805,
+        "stop" : 1669449265454,
+        "duration" : 32649
+      }
+    }, {
+      "uid" : "f9d45fd4e5901741",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of element located by By.xpath: //a[normalize-space()='Sign in'] (tried for 40 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1669449200248,
+        "stop" : 1669449267631,
+        "duration" : 67383
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7ad4618719b9caf.json",
+  "parameterValues" : [ ]
+}

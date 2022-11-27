@@ -1,0 +1,130 @@
+{
+  "uid" : "c2af62c460a8bbe8",
+  "name" : "loginTest",
+  "fullName" : "webtests.Logintest.loginTest",
+  "historyId" : "a7050e98b39508531c0a05f6d80666d",
+  "time" : {
+    "start" : 1669455521927,
+    "stop" : 1669455543894,
+    "duration" : 21967
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1669455518972,
+      "stop" : 1669455521925,
+      "duration" : 2953
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "89041ef7f58d4a8d",
+      "name" : "SignInPage",
+      "source" : "89041ef7f58d4a8d.png",
+      "type" : "image/png",
+      "size" : 133258
+    }, {
+      "uid" : "baa5c5d68d195d83",
+      "name" : "FilteredBookPage",
+      "source" : "baa5c5d68d195d83.png",
+      "type" : "image/png",
+      "size" : 453213
+    }, {
+      "uid" : "1fb42803ed253bc3",
+      "name" : "CartPage",
+      "source" : "1fb42803ed253bc3.png",
+      "type" : "image/png",
+      "size" : 119440
+    }, {
+      "uid" : "bacc5d38f125e888",
+      "name" : "ShippingPage",
+      "source" : "bacc5d38f125e888.png",
+      "type" : "image/png",
+      "size" : 101513
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "quitDriver",
+    "time" : {
+      "start" : 1669455543896,
+      "stop" : 1669455544011,
+      "duration" : 115
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "webtests.Logintest"
+  }, {
+    "name" : "testClass",
+    "value" : "webtests.Logintest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "webtests.Logintest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-1S8O95K"
+  }, {
+    "name" : "thread",
+    "value" : "21000@DESKTOP-1S8O95K.TestNG-test=Test-1(19)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c2af62c460a8bbe8.json",
+  "parameterValues" : [ ]
+}

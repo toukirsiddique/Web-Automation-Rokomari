@@ -1,0 +1,112 @@
+{
+  "uid" : "a693c104e72181e2",
+  "name" : "testHomePageUrl",
+  "fullName" : "webtests.Logintest.testHomePageUrl",
+  "historyId" : "3c1742d68ae1d05509c633e12c34dd0",
+  "time" : {
+    "start" : 1669451248111,
+    "stop" : 1669451256089,
+    "duration" : 7978
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1669451247446,
+      "stop" : 1669451248109,
+      "duration" : 663
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "839938b2923f39b9",
+      "name" : "HomePage",
+      "source" : "839938b2923f39b9.png",
+      "type" : "image/png",
+      "size" : 564503
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "quitDriver",
+    "time" : {
+      "start" : 1669451256091,
+      "stop" : 1669451256185,
+      "duration" : 94
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "webtests.Logintest"
+  }, {
+    "name" : "testClass",
+    "value" : "webtests.Logintest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testHomePageUrl"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "webtests.Logintest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-1S8O95K"
+  }, {
+    "name" : "thread",
+    "value" : "5648@DESKTOP-1S8O95K.TestNG-test=Test-2(20)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a693c104e72181e2.json",
+  "parameterValues" : [ ]
+}

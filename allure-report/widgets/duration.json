@@ -1,0 +1,51 @@
+[ {
+  "uid" : "7ad4618719b9caf",
+  "name" : "Rokomari Cart Page",
+  "time" : {
+    "start" : 1669456729744,
+    "stop" : 1669456754594,
+    "duration" : 24850
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1167a6b983cabcb5",
+  "name" : "Rokomari Book Page",
+  "time" : {
+    "start" : 1669457848761,
+    "stop" : 1669457862720,
+    "duration" : 13959
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc2418d93796947f",
+  "name" : "Rokomari Cart Page",
+  "time" : {
+    "start" : 1669457854565,
+    "stop" : 1669457872631,
+    "duration" : 18066
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2982dab68c03891",
+  "name" : "Rokomari Author Page",
+  "time" : {
+    "start" : 1669457850217,
+    "stop" : 1669457859919,
+    "duration" : 9702
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a17daaeefb045d85",
+  "name" : "Rokomari Home Page",
+  "time" : {
+    "start" : 1669457849456,
+    "stop" : 1669457853769,
+    "duration" : 4313
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

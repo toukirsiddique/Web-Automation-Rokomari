@@ -1,0 +1,143 @@
+{
+  "uid" : "dc2418d93796947f",
+  "name" : "Rokomari Cart Page",
+  "fullName" : "webtests.Logintest.loginautomationTest",
+  "historyId" : "9a182eb83a49a24b44f7a541f035ced",
+  "time" : {
+    "start" : 1669457854565,
+    "stop" : 1669457872631,
+    "duration" : 18066
+  },
+  "description" : "Test Description: We have selected an Author, Filtered Books by Sorting and Category, Chose a particular book and added it to the cart, provided necessary details for shipping the book and took screenshots throughout the process.",
+  "descriptionHtml" : "<p>Test Description: We have selected an Author, Filtered Books by Sorting and Category, Chose a particular book and added it to the cart, provided necessary details for shipping the book and took screenshots throughout the process.</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1669457853888,
+      "stop" : 1669457854562,
+      "duration" : 674
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Description: We have selected an Author, Filtered Books by Sorting and Category, Chose a particular book and added it to the cart, provided necessary details for shipping the book and took screenshots throughout the process.",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4aea707c877b69fc",
+      "name" : "SignInPage",
+      "source" : "4aea707c877b69fc.png",
+      "type" : "image/png",
+      "size" : 133060
+    }, {
+      "uid" : "e595e9cf34037bdb",
+      "name" : "FilteredBookPage",
+      "source" : "e595e9cf34037bdb.png",
+      "type" : "image/png",
+      "size" : 453114
+    }, {
+      "uid" : "885c70b901246d16",
+      "name" : "CartPage",
+      "source" : "885c70b901246d16.png",
+      "type" : "image/png",
+      "size" : 119440
+    }, {
+      "uid" : "deb514e924deaa86",
+      "name" : "ShippingPage",
+      "source" : "deb514e924deaa86.png",
+      "type" : "image/png",
+      "size" : 101513
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "quitDriver",
+    "time" : {
+      "start" : 1669457872631,
+      "stop" : 1669457872781,
+      "duration" : 150
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "webtests.Logintest"
+  }, {
+    "name" : "testClass",
+    "value" : "webtests.Logintest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginautomationTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "webtests.Logintest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-1S8O95K"
+  }, {
+    "name" : "thread",
+    "value" : "19212@DESKTOP-1S8O95K.TestNG-test=Test-1(20)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9bfabe8126340612",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669457548712,
+        "stop" : 1669457569939,
+        "duration" : 21227
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dc2418d93796947f.json",
+  "parameterValues" : [ ]
+}

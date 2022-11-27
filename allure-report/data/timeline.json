@@ -1,0 +1,923 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-1S8O95K",
+    "children" : [ {
+      "name" : "3984@DESKTOP-1S8O95K.TestNG-test=Test-2(21)",
+      "children" : [ {
+        "name" : "testAuthorPageTitle",
+        "uid" : "6a25a71851279669",
+        "parentUid" : "99788b30ee7ca219b3dcf01cbfbee12a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669454539225,
+          "stop" : 1669454547124,
+          "duration" : 7899
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testHomePageUrl",
+        "uid" : "c911c8b6fc50eb0b",
+        "parentUid" : "99788b30ee7ca219b3dcf01cbfbee12a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669454547981,
+          "stop" : 1669454551842,
+          "duration" : 3861
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "99788b30ee7ca219b3dcf01cbfbee12a"
+    }, {
+      "name" : "18152@DESKTOP-1S8O95K.TestNG-test=Test-2(20)",
+      "children" : [ {
+        "name" : "Rokomari Author Page",
+        "uid" : "2a183e404af2a115",
+        "parentUid" : "9e713da33896b7d45b5194f07e5d0683",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669457549448,
+          "stop" : 1669457559434,
+          "duration" : 9986
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Rokomari Home Page",
+        "uid" : "f46ec11a9d1d6ea4",
+        "parentUid" : "9e713da33896b7d45b5194f07e5d0683",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669457560335,
+          "stop" : 1669457563420,
+          "duration" : 3085
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9e713da33896b7d45b5194f07e5d0683"
+    }, {
+      "name" : "10372@DESKTOP-1S8O95K.TestNG-test=Test-3(21)",
+      "children" : [ {
+        "name" : "Rokomari Book Page",
+        "uid" : "9d0d9677d956a1cf",
+        "parentUid" : "f24de3c2a24e4f9328cd25298764f279",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669456731550,
+          "stop" : 1669456744620,
+          "duration" : 13070
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f24de3c2a24e4f9328cd25298764f279"
+    }, {
+      "name" : "13440@DESKTOP-1S8O95K.TestNG-test=Test-2(20)",
+      "children" : [ {
+        "name" : "testAuthorPageTitle",
+        "uid" : "3bba9cf0adc7118a",
+        "parentUid" : "fe7c2a5a6d2f231593e66a0ee6fee13a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669454863848,
+          "stop" : 1669454872435,
+          "duration" : 8587
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testHomePageUrl",
+        "uid" : "413db6f70c9a802d",
+        "parentUid" : "fe7c2a5a6d2f231593e66a0ee6fee13a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669454873316,
+          "stop" : 1669454876256,
+          "duration" : 2940
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fe7c2a5a6d2f231593e66a0ee6fee13a"
+    }, {
+      "name" : "1688@DESKTOP-1S8O95K.TestNG-test=Test-1(18)",
+      "children" : [ {
+        "name" : "testHomePageUrl",
+        "uid" : "d169e86a0989c2b2",
+        "parentUid" : "97bcfbeed7667384e03da221a64c9ffa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669449745635,
+          "stop" : 1669449749209,
+          "duration" : 3574
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "efdd9fc3cc9b8250",
+        "parentUid" : "97bcfbeed7667384e03da221a64c9ffa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669449717326,
+          "stop" : 1669449744782,
+          "duration" : 27456
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "97bcfbeed7667384e03da221a64c9ffa"
+    }, {
+      "name" : "12084@DESKTOP-1S8O95K.TestNG-test=Test-1(20)",
+      "children" : [ {
+        "name" : "Rokomari Home Page",
+        "uid" : "d1a3acfb1405da93",
+        "parentUid" : "3de02be6cd7041ccf669c44cf88d3bea",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669457800128,
+          "stop" : 1669457802990,
+          "duration" : 2862
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3de02be6cd7041ccf669c44cf88d3bea"
+    }, {
+      "name" : "4000@DESKTOP-1S8O95K.TestNG-test=Test-3(21)",
+      "children" : [ {
+        "name" : "testBookPageTitle",
+        "uid" : "d92ba0f7b8a83783",
+        "parentUid" : "b4e7e9e0a4b470b2bb177beb270992ac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669451510302,
+          "stop" : 1669451524251,
+          "duration" : 13949
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b4e7e9e0a4b470b2bb177beb270992ac"
+    }, {
+      "name" : "21000@DESKTOP-1S8O95K.TestNG-test=Test-1(19)",
+      "children" : [ {
+        "name" : "loginTest",
+        "uid" : "c2af62c460a8bbe8",
+        "parentUid" : "13f55081b62b9c7e1deeba4071fc2447",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669455521927,
+          "stop" : 1669455543894,
+          "duration" : 21967
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "13f55081b62b9c7e1deeba4071fc2447"
+    }, {
+      "name" : "18152@DESKTOP-1S8O95K.TestNG-test=Test-1(19)",
+      "children" : [ {
+        "name" : "Rokomari Cart Page",
+        "uid" : "9bfabe8126340612",
+        "parentUid" : "61e55a3209660e12990717d071529bdc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669457548712,
+          "stop" : 1669457569939,
+          "duration" : 21227
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "61e55a3209660e12990717d071529bdc"
+    }, {
+      "name" : "5648@DESKTOP-1S8O95K.TestNG-test=Test-2(20)",
+      "children" : [ {
+        "name" : "testHomePageUrl",
+        "uid" : "a693c104e72181e2",
+        "parentUid" : "6eaa566d0f441f8617b81f730a1eaac9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669451248111,
+          "stop" : 1669451256089,
+          "duration" : 7978
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testAuthorPageTitle",
+        "uid" : "e9cfa056d26cec05",
+        "parentUid" : "6eaa566d0f441f8617b81f730a1eaac9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669451237372,
+          "stop" : 1669451247305,
+          "duration" : 9933
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6eaa566d0f441f8617b81f730a1eaac9"
+    }, {
+      "name" : "19212@DESKTOP-1S8O95K.TestNG-test=Test-3(22)",
+      "children" : [ {
+        "name" : "Rokomari Book Page",
+        "uid" : "1167a6b983cabcb5",
+        "parentUid" : "1130c35c93316a93dde87a12d8612e77",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669457848761,
+          "stop" : 1669457862720,
+          "duration" : 13959
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 9,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1130c35c93316a93dde87a12d8612e77"
+    }, {
+      "name" : "18688@DESKTOP-1S8O95K.TestNG-test=Test-3(22)",
+      "children" : [ {
+        "name" : "testBookPageTitle",
+        "uid" : "d39baaf701d9b7da",
+        "parentUid" : "76e913f0004cb22301d0f94a921a2616",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669451597341,
+          "stop" : 1669451611271,
+          "duration" : 13930
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "76e913f0004cb22301d0f94a921a2616"
+    }, {
+      "name" : "10372@DESKTOP-1S8O95K.TestNG-test=Test-2(20)",
+      "children" : [ {
+        "name" : "Rokomari Author Page",
+        "uid" : "496780d4db905a7a",
+        "parentUid" : "65c90877d15f2350f98881cc6effee60",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669456730506,
+          "stop" : 1669456739454,
+          "duration" : 8948
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Rokomari Home Page",
+        "uid" : "58cabdf2bad889eb",
+        "parentUid" : "65c90877d15f2350f98881cc6effee60",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669456740325,
+          "stop" : 1669456743278,
+          "duration" : 2953
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "65c90877d15f2350f98881cc6effee60"
+    }, {
+      "name" : "5648@DESKTOP-1S8O95K.TestNG-test=Test-3(21)",
+      "children" : [ {
+        "name" : "testBookPageTitle",
+        "uid" : "1e779afc135fdd0b",
+        "parentUid" : "039b05e84bc2913bce9f6337bb6b213e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1669451237970,
+          "stop" : 1669451252378,
+          "duration" : 14408
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "039b05e84bc2913bce9f6337bb6b213e"
+    }, {
+      "name" : "10372@DESKTOP-1S8O95K.TestNG-test=Test-1(19)",
+      "children" : [ {
+        "name" : "Rokomari Cart Page",
+        "uid" : "7ad4618719b9caf",
+        "parentUid" : "ce3353d74bba7e9e4a94efb7cfbc63cf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669456729744,
+          "stop" : 1669456754594,
+          "duration" : 24850
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 9,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ce3353d74bba7e9e4a94efb7cfbc63cf"
+    }, {
+      "name" : "5648@DESKTOP-1S8O95K.TestNG-test=Test-1(19)",
+      "children" : [ {
+        "name" : "loginTest",
+        "uid" : "2fdba636704848a9",
+        "parentUid" : "ad34bc2e1437f6adeb188e1006ec9b04",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669451238716,
+          "stop" : 1669451265150,
+          "duration" : 26434
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ad34bc2e1437f6adeb188e1006ec9b04"
+    }, {
+      "name" : "12048@DESKTOP-1S8O95K.main(1)",
+      "children" : [ {
+        "name" : "testHomePageUrl",
+        "uid" : "bdc1f430a9f3b3ca",
+        "parentUid" : "ad1d6334ed015121cbf7dc1a67321323",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669449265494,
+          "stop" : 1669449268351,
+          "duration" : 2857
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "26251e59bbe99eb3",
+        "parentUid" : "ad1d6334ed015121cbf7dc1a67321323",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669449232805,
+          "stop" : 1669449265454,
+          "duration" : 32649
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ad1d6334ed015121cbf7dc1a67321323"
+    }, {
+      "name" : "6848@DESKTOP-1S8O95K.main(1)",
+      "children" : [ {
+        "name" : "testHomePageUrl",
+        "uid" : "225cd87fc49cf4c",
+        "parentUid" : "4cd272e3286199b17bb31ca633125442",
+        "status" : "broken",
+        "time" : {
+          "start" : 1669449267672,
+          "stop" : 1669449267675,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "f9d45fd4e5901741",
+        "parentUid" : "4cd272e3286199b17bb31ca633125442",
+        "status" : "broken",
+        "time" : {
+          "start" : 1669449200248,
+          "stop" : 1669449267631,
+          "duration" : 67383
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4cd272e3286199b17bb31ca633125442"
+    }, {
+      "name" : "18916@DESKTOP-1S8O95K.TestNG-test=Test-2(20)",
+      "children" : [ {
+        "name" : "Rokomari Author Page",
+        "uid" : "248403093c104d41",
+        "parentUid" : "7a215d441274d958a4aa24acb43996a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669457372040,
+          "stop" : 1669457381737,
+          "duration" : 9697
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Rokomari Home Page",
+        "uid" : "4317c345e84d6fa4",
+        "parentUid" : "7a215d441274d958a4aa24acb43996a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669457382653,
+          "stop" : 1669457385653,
+          "duration" : 3000
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7a215d441274d958a4aa24acb43996a2"
+    }, {
+      "name" : "19212@DESKTOP-1S8O95K.TestNG-test=Test-1(20)",
+      "children" : [ {
+        "name" : "Rokomari Home Page",
+        "uid" : "a17daaeefb045d85",
+        "parentUid" : "eb0a96a98521a7b6ad6b8976ede57930",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669457849456,
+          "stop" : 1669457853769,
+          "duration" : 4313
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 13,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "Rokomari Cart Page",
+        "uid" : "dc2418d93796947f",
+        "parentUid" : "eb0a96a98521a7b6ad6b8976ede57930",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669457854565,
+          "stop" : 1669457872631,
+          "duration" : 18066
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "eb0a96a98521a7b6ad6b8976ede57930"
+    }, {
+      "name" : "19212@DESKTOP-1S8O95K.TestNG-test=Test-2(21)",
+      "children" : [ {
+        "name" : "Rokomari Author Page",
+        "uid" : "c2982dab68c03891",
+        "parentUid" : "c871a3ae24c74f6d16d49ac2344e29b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669457850217,
+          "stop" : 1669457859919,
+          "duration" : 9702
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 9,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c871a3ae24c74f6d16d49ac2344e29b7"
+    }, {
+      "name" : "3984@DESKTOP-1S8O95K.TestNG-test=Test-3(22)",
+      "children" : [ {
+        "name" : "testBookPageTitle",
+        "uid" : "f815cc08aa9cff5a",
+        "parentUid" : "b4afa6391f51cba747b1010fc09493a8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1669454540535,
+          "stop" : 1669454590340,
+          "duration" : 49805
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b4afa6391f51cba747b1010fc09493a8"
+    }, {
+      "name" : "4000@DESKTOP-1S8O95K.TestNG-test=Test-2(20)",
+      "children" : [ {
+        "name" : "testHomePageUrl",
+        "uid" : "33310ffe3f8e658b",
+        "parentUid" : "2cc1112b5aa27f109f00f50dad2194a3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669451519261,
+          "stop" : 1669451522040,
+          "duration" : 2779
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testAuthorPageTitle",
+        "uid" : "1923249f88ac7236",
+        "parentUid" : "2cc1112b5aa27f109f00f50dad2194a3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669451508956,
+          "stop" : 1669451518447,
+          "duration" : 9491
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2cc1112b5aa27f109f00f50dad2194a3"
+    }, {
+      "name" : "18688@DESKTOP-1S8O95K.TestNG-test=Test-1(20)",
+      "children" : [ {
+        "name" : "loginTest",
+        "uid" : "e0013d4e2f344558",
+        "parentUid" : "c68120b47025210fa18690c241d70187",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669451596597,
+          "stop" : 1669451618484,
+          "duration" : 21887
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c68120b47025210fa18690c241d70187"
+    }, {
+      "name" : "18688@DESKTOP-1S8O95K.TestNG-test=Test-2(21)",
+      "children" : [ {
+        "name" : "testAuthorPageTitle",
+        "uid" : "9aedc15a23836d44",
+        "parentUid" : "8a376a06b583b66a86f5a3407d36785d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669451595985,
+          "stop" : 1669451605551,
+          "duration" : 9566
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testHomePageUrl",
+        "uid" : "688ecb023cfa60ac",
+        "parentUid" : "8a376a06b583b66a86f5a3407d36785d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669451606442,
+          "stop" : 1669451609263,
+          "duration" : 2821
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8a376a06b583b66a86f5a3407d36785d"
+    }, {
+      "name" : "21000@DESKTOP-1S8O95K.TestNG-test=Test-2(20)",
+      "children" : [ {
+        "name" : "testHomePageUrl",
+        "uid" : "c557f067f61a36ee",
+        "parentUid" : "156acce889111eb9cf4d3458c2651245",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669455530491,
+          "stop" : 1669455533995,
+          "duration" : 3504
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testAuthorPageTitle",
+        "uid" : "27f6d652bbdaa96f",
+        "parentUid" : "156acce889111eb9cf4d3458c2651245",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669455520456,
+          "stop" : 1669455529479,
+          "duration" : 9023
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "156acce889111eb9cf4d3458c2651245"
+    }, {
+      "name" : "13440@DESKTOP-1S8O95K.TestNG-test=Test-1(19)",
+      "children" : [ {
+        "name" : "loginTest",
+        "uid" : "4c5e2286efb13610",
+        "parentUid" : "c0895c65b22c42eb5e30451abec7de0d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1669454864534,
+          "stop" : 1669454915131,
+          "duration" : 50597
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c0895c65b22c42eb5e30451abec7de0d"
+    }, {
+      "name" : "13440@DESKTOP-1S8O95K.TestNG-test=Test-3(21)",
+      "children" : [ {
+        "name" : "testBookPageTitle",
+        "uid" : "60e8fa6bcb802161",
+        "parentUid" : "4c1a7d46a588eb0de2796790d8ebbd55",
+        "status" : "broken",
+        "time" : {
+          "start" : 1669454863277,
+          "stop" : 1669454912938,
+          "duration" : 49661
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4c1a7d46a588eb0de2796790d8ebbd55"
+    }, {
+      "name" : "20372@DESKTOP-1S8O95K.main(1)",
+      "children" : [ {
+        "name" : "loginTest",
+        "uid" : "dae34ffb7fd5a280",
+        "parentUid" : "f0e688c30f7b1b7b83bb2f5e48b13aac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669455364344,
+          "stop" : 1669455382615,
+          "duration" : 18271
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f0e688c30f7b1b7b83bb2f5e48b13aac"
+    }, {
+      "name" : "18152@DESKTOP-1S8O95K.TestNG-test=Test-3(21)",
+      "children" : [ {
+        "name" : "Rokomari Book Page",
+        "uid" : "557e70c38f3982ec",
+        "parentUid" : "ea9114e46c9647c3ad46cf9c3ab36aae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669457548094,
+          "stop" : 1669457561775,
+          "duration" : 13681
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ea9114e46c9647c3ad46cf9c3ab36aae"
+    }, {
+      "name" : "3984@DESKTOP-1S8O95K.TestNG-test=Test-1(20)",
+      "children" : [ {
+        "name" : "loginTest",
+        "uid" : "18bba7d7a7a9d0aa",
+        "parentUid" : "3f623f7633977b0b478390b9f7182243",
+        "status" : "broken",
+        "time" : {
+          "start" : 1669454539822,
+          "stop" : 1669454588337,
+          "duration" : 48515
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3f623f7633977b0b478390b9f7182243"
+    }, {
+      "name" : "21000@DESKTOP-1S8O95K.TestNG-test=Test-3(21)",
+      "children" : [ {
+        "name" : "testBookPageTitle",
+        "uid" : "e81151dbe9b1a4e5",
+        "parentUid" : "41c98e5df7463b980ae51ce47ab340f9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1669455521148,
+          "stop" : 1669455534924,
+          "duration" : 13776
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "41c98e5df7463b980ae51ce47ab340f9"
+    }, {
+      "name" : "18916@DESKTOP-1S8O95K.TestNG-test=Test-3(21)",
+      "children" : [ {
+        "name" : "Rokomari Book Page",
+        "uid" : "a5888831e43bd82e",
+        "parentUid" : "04f56706b9b4a426bf1fe5cd3609d7bc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669457372764,
+          "stop" : 1669457385290,
+          "duration" : 12526
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "04f56706b9b4a426bf1fe5cd3609d7bc"
+    } ],
+    "uid" : "46402a7edc0225861ae4201ccfc71d73"
+  } ]
+}

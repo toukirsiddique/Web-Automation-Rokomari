@@ -1,0 +1,115 @@
+{
+  "uid" : "a5888831e43bd82e",
+  "name" : "Rokomari Book Page",
+  "fullName" : "webtests.Logintest.testBookPageTitle",
+  "historyId" : "a339159aa7e2a7e952311fd95fcce2b4",
+  "time" : {
+    "start" : 1669457372764,
+    "stop" : 1669457385290,
+    "duration" : 12526
+  },
+  "description" : "Test Description: Assertion was used here to check if the Book page title matches with our given title and screenshot was taken.",
+  "descriptionHtml" : "<p>Test Description: Assertion was used here to check if the Book page title matches with our given title and screenshot was taken.</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1669457369897,
+      "stop" : 1669457372761,
+      "duration" : 2864
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Description: Assertion was used here to check if the Book page title matches with our given title and screenshot was taken.",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5a49bc01db711228",
+      "name" : "SelectedBook",
+      "source" : "5a49bc01db711228.png",
+      "type" : "image/png",
+      "size" : 393586
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "quitDriver",
+    "time" : {
+      "start" : 1669457385293,
+      "stop" : 1669457385410,
+      "duration" : 117
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "webtests.Logintest"
+  }, {
+    "name" : "testClass",
+    "value" : "webtests.Logintest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testBookPageTitle"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "webtests.Logintest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-1S8O95K"
+  }, {
+    "name" : "thread",
+    "value" : "18916@DESKTOP-1S8O95K.TestNG-test=Test-3(21)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a5888831e43bd82e.json",
+  "parameterValues" : [ ]
+}
