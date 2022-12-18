@@ -2,6 +2,7 @@ package webtests;
 
 import static org.testng.Assert.assertEquals;
 
+import org.openqa.selenium.JavascriptExecutor;
 import org.testng.annotations.Test;
 
 import io.qameta.allure.Description;
@@ -46,6 +47,7 @@ public class Logintest extends DriverSetup{
 	@Description("Test Description: Assertion was used here to check if the Book page title matches with our given title and screenshot was taken.")
 	public void testBookPageTitle() {
 		getDriver().get("https://www.rokomari.com/book");
+		JavascriptExecutor js = (JavascriptExecutor) getDriver();
 		homePage.clickOnSigninButton();
 		signIn.enterUsername("toukir.madrid@gmail.com");
 		signIn.enterPassword("touRokomari07kir");
@@ -54,6 +56,7 @@ public class Logintest extends DriverSetup{
 		authorSelectionPage.clickOnAuthor();
 		addingPage.categoryNobel();
 		addingPage.sortingType();
+		js.executeScript("window.scrollBy(0,300)");
 		addingPage.hoverCart();
 		addingPage.clickBook();
 		assertEquals(getDriver().getTitle(), "নির্বাসন: সাদাত হোসাইন - Nirbason: Sadat Hossain | Rokomari.com");
@@ -66,6 +69,7 @@ public class Logintest extends DriverSetup{
 	public void loginautomationTest() throws InterruptedException {
 		
 		getDriver().get("https://www.rokomari.com/book");
+		JavascriptExecutor js = (JavascriptExecutor) getDriver();
 		homePage.clickOnSigninButton();
 		signIn.enterUsername("toukir.madrid@gmail.com");
 		signIn.enterPassword("touRokomari07kir");
@@ -76,9 +80,11 @@ public class Logintest extends DriverSetup{
 		addingPage.categoryNobel();
 		addingPage.sortingType();
 		homePage.takeScreenShot("FilteredBookPage");
+		js.executeScript("window.scrollBy(0,300)");
+		Thread.sleep(1000);
 		addingPage.hoverCart();
 		addingPage.clickBook();
-		Thread.sleep(1000);
+//		Thread.sleep(1000);
 		addingPage.addCart();
 		addingPage.goCart();
 		homePage.takeScreenShot("CartPage");
@@ -91,6 +97,7 @@ public class Logintest extends DriverSetup{
 		shippingPage.areaField();
 		shippingPage.addressField("65/66 Rangs Hafiz Tower");
 		shippingPage.paymentMethod();
+		js.executeScript("window.scrollBy(0,300)");
 		Thread.sleep(4000);
 		homePage.takeScreenShot("ShippingPage");
 	}
